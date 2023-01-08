@@ -4,9 +4,10 @@
 - 🌱 I am eager to learn cloud computing and devops tools
 - 💬 I am passionate to learn and cooperate, and I am eager to share my knowledge
 - ⚡ An individual who tries to improve and update myself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast
-- 📫 How to reach me: furkan.alperen08@gmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mikail-furkan-alperen/) 
+[<img align="left" alt="MAIL" width="30px" src="./images/Gmail.svg.png" style="padding-right:10px;" />](mailto:furkan.alperen08@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mikail-furkan-alperen/)
+[<img align="left" alt="XINK" width="20px" src="https://cdn.worldvectorlogo.com/logos/xing-icon.svg" style="padding-right:10px;" />](https://www.xing.com/profile/MikailFurkan_Alperen/)
 
 <hr>
 
