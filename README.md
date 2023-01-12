@@ -42,5 +42,6 @@
 |Project - 204               |[Java App Deployment on Kubernetes Cluster ](https://github.com/furkanalp/Kubernetes/tree/main/vprofile-project-kub/k8s)|
 |Project - 205             | [Docker Swarm Deployment of Phonebook Application (Python Flask) with MySQL ](https://github.com/furkanalp/-DevOps_Projects/tree/main/203-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql-Terraform)|
 |Project - 206             | [Microservice Architecture for Phonebook Web Application (Python Flask) with MySQL using Kubernetes ](https://github.com/furkanalp/-DevOps_Projects/tree/main/204-Kubernetes-Microservice-Phonebook)|
+|Project - 207             | [Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker ](https://github.com/furkanalp/-DevOps_Projects/tree/main/206-Ansible-publish-website-postgresql-nodejs-react)|
 
 
